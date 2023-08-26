@@ -1,0 +1,41 @@
+body
+{
+    font-family: 'Borel', cursive;
+    background-color:rgb(230, 180, 255);
+
+}
+.header_div
+{
+    background: white;
+    color:red;
+
+}
+
+.header_div p{
+    font-family: 'Borel', cursive;
+    color:darkorchid;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+
+}
+.main_div button{
+    font-family: 'Borel', cursive;
+    margin-top: 40px;
+    width:130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+
+}
+
+.copy_right_footer{
+    position:fixed;
+    color:darkorchid;
+    bottom:0;
+    width: 100%;
+    font-size: 18px;
+    background-color:rgb(230, 180, 255);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
